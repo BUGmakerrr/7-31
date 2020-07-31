@@ -1,9 +1,9 @@
-﻿生成启动时间为 2020/8/1 0:29:01。
+﻿生成启动时间为 2020/8/1 0:40:43。
      1>项目“E:\文档\Visual Studio 2013\Projects\7-31\7-31\7-31.vcxproj”在节点 2 上(Build 个目标)。
      1>ClCompile:
          F:\VS2013\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt test.cpp
          test.cpp
-     1>e:\文档\visual studio 2013\projects\7-31\7-31\test.cpp(13): warning C4715: “find”: 不是所有的控件路径都返回值
+     1>e:\文档\visual studio 2013\projects\7-31\7-31\test.cpp(37): warning C4715: “findRepeatNumber”: 不是所有的控件路径都返回值
        Link:
          F:\VS2013\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\文档\Visual Studio 2013\Projects\7-31\Debug\7-31.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\文档\Visual Studio 2013\Projects\7-31\Debug\7-31.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\文档\Visual Studio 2013\Projects\7-31\Debug\7-31.lib" /MACHINE:X86 Debug\test.obj
          7-31.vcxproj -> E:\文档\Visual Studio 2013\Projects\7-31\Debug\7-31.exe
@@ -11,4 +11,4 @@
 
 生成成功。
 
-已用时间 00:00:00.70
+已用时间 00:00:00.94
